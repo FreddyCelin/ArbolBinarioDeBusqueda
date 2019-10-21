@@ -1,0 +1,12 @@
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\bin\Debug\netcoreapp2.2\LogicaConstruccion.deps.json
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\bin\Debug\netcoreapp2.2\LogicaConstruccion.dll
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\bin\Debug\netcoreapp2.2\LogicaConstruccion.pdb
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\bin\Debug\netcoreapp2.2\Clases.dll
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\bin\Debug\netcoreapp2.2\Clases.pdb
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\obj\Debug\netcoreapp2.2\LogicaConstruccion.csprojAssemblyReference.cache
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\obj\Debug\netcoreapp2.2\LogicaConstruccion.csproj.CoreCompileInputs.cache
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\obj\Debug\netcoreapp2.2\LogicaConstruccion.AssemblyInfoInputs.cache
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\obj\Debug\netcoreapp2.2\LogicaConstruccion.AssemblyInfo.cs
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\obj\Debug\netcoreapp2.2\LogicaConstruccion.csproj.CopyComplete
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\obj\Debug\netcoreapp2.2\LogicaConstruccion.dll
+C:\Proyectos\Masivian\Prueba\PruebaMasivian\BLL\LogicaConstruccionBLL\obj\Debug\netcoreapp2.2\LogicaConstruccion.pdb

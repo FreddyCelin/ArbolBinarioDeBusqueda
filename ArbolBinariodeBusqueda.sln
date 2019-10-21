@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Main", "1.Main", "{46772F1F-17A4-46EE-8FAC-CD6F77A3E185}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.BLL", "2.BLL", "{0791D163-0F01-4F94-932F-020A94A532E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArbolBinario", "Main\ArbolBinario\ArbolBinario.csproj", "{550C7C20-39D2-4774-83AA-832B30B8EFDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica", "BLL\LogicaConstruccionBLL\Logica.csproj", "{8443B0AD-6D85-4EFA-84FE-D70524FE35B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Transversal", "3.Transversal", "{F3D816A9-4229-48C5-9D14-6CCCA85F722C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases", "Transversal\Clases\Clases.csproj", "{D599FE4D-4EA1-44E9-AB5F-429DAAE101C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Test", "4.Test", "{9FCA92F5-57DC-4A15-916F-FE1BCA42016A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebasaLogica", "Test\PruebasaLogica\PruebasaLogica.csproj", "{249C1B16-C38A-41CF-A23F-BB208D7A71F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica.Interfaces", "BLL\LogicaConstruccionBLL.Interface\Logica.Interfaces\Logica.Interfaces.csproj", "{D641036A-40E1-4137-A62D-A2E0DA9BC659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550C7C20-39D2-4774-83AA-832B30B8EFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550C7C20-39D2-4774-83AA-832B30B8EFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550C7C20-39D2-4774-83AA-832B30B8EFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550C7C20-39D2-4774-83AA-832B30B8EFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8443B0AD-6D85-4EFA-84FE-D70524FE35B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8443B0AD-6D85-4EFA-84FE-D70524FE35B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8443B0AD-6D85-4EFA-84FE-D70524FE35B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8443B0AD-6D85-4EFA-84FE-D70524FE35B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D599FE4D-4EA1-44E9-AB5F-429DAAE101C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D599FE4D-4EA1-44E9-AB5F-429DAAE101C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D599FE4D-4EA1-44E9-AB5F-429DAAE101C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D599FE4D-4EA1-44E9-AB5F-429DAAE101C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249C1B16-C38A-41CF-A23F-BB208D7A71F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249C1B16-C38A-41CF-A23F-BB208D7A71F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249C1B16-C38A-41CF-A23F-BB208D7A71F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249C1B16-C38A-41CF-A23F-BB208D7A71F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D641036A-40E1-4137-A62D-A2E0DA9BC659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D641036A-40E1-4137-A62D-A2E0DA9BC659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D641036A-40E1-4137-A62D-A2E0DA9BC659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D641036A-40E1-4137-A62D-A2E0DA9BC659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{550C7C20-39D2-4774-83AA-832B30B8EFDD} = {46772F1F-17A4-46EE-8FAC-CD6F77A3E185}
+		{8443B0AD-6D85-4EFA-84FE-D70524FE35B5} = {0791D163-0F01-4F94-932F-020A94A532E5}
+		{D599FE4D-4EA1-44E9-AB5F-429DAAE101C2} = {F3D816A9-4229-48C5-9D14-6CCCA85F722C}
+		{249C1B16-C38A-41CF-A23F-BB208D7A71F2} = {9FCA92F5-57DC-4A15-916F-FE1BCA42016A}
+		{D641036A-40E1-4137-A62D-A2E0DA9BC659} = {0791D163-0F01-4F94-932F-020A94A532E5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6548A783-7F13-45BC-952B-55A4ECC5D17A}
+	EndGlobalSection
+EndGlobal

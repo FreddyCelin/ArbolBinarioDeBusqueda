@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Transversal\Clases\Clases.csproj" />
+    <ProjectReference Include="..\LogicaConstruccionBLL.Interface\Logica.Interfaces\Logica.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
